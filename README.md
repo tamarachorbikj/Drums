@@ -1,2 +1,2 @@
 # Drums
-Drum kit set for you to play
+Drum kit game
